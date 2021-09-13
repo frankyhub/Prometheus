@@ -1,6 +1,6 @@
 # Prometheus
 
-### Beispiel: 4 Kanal LL
+### Beispiel: 1 Layer 4 Kanal Laiflicht (Lötübung I)
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/4Kanal-LL.png)
 
 ### Link zu Zippyrobotics
