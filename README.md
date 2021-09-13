@@ -9,7 +9,7 @@
 ### ProCam download
 [Download](https://www.zippyrobotics.com/download/)
 
-### How TO and Guides Videos
+### How To and Guides Videos
 [walk trough](https://www.zippyrobotics.com/how-to/)
 
 
