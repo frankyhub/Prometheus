@@ -53,6 +53,9 @@ Fräse:
 - [ ] Öl aufbringen 
 - [ ] Cutten starten
 
+
+### Screenshots
+
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad1.png)
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad2.png)
@@ -69,7 +72,7 @@ Fräse:
 
 
 
-### Wiki
+### Oberlab Wiki
 
 Specs laut Hersteller
 
