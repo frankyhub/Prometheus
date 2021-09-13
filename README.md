@@ -1,7 +1,7 @@
 # Prometheus
 
 ### 4 Kanal LL
-![image](https://github.com/frankyhub/Prometheus/blob/main/4Kanal-LL.jpg)
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/4Kanal-LL.png)
 
 ### Zippyrobotics
 [Home](https://www.zippyrobotics.com/)
@@ -54,6 +54,19 @@ Fräse:
 - [ ] Fräser Edge cut wechseln
 - [ ] Öl aufbringen 
 - [ ] Cutten starten
+
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad1.png)
+
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad2.png)
+
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad4.png)
+
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad5.png)
+
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/drill1.png)
+
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/Prom1.png)
+
 
 
 
