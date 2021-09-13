@@ -21,7 +21,6 @@ KiCad:
 - [ ] Max Platinengröße: 160 x 100
 - [ ] Große Pads (Empfehlung)
 - [ ] Gleich große Bohrlöcher (Empfehlung)
-- [ ] Große Leiterbahn Abstände (Empfehlung)
 - [ ] Offset links unten einfügen
 - [ ] Ursprung links unten einfügen
 - [ ] Plotter Einstellungen anpassen
