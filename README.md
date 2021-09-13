@@ -42,15 +42,16 @@ Prometheus:
 - [ ] Knuppel nach rechts schieben und festen Sitz kontrollieren
 - [ ] Platinenoberfläche mit Öl benetzen
 - [ ] Fräsvorgang starten
-- [ ] Drill:
-- [ ] Bohrer für die Bohrlöcher wechseln
+- [ ] Drill: 
+- [ ] Bohrer für die Bohrlöcher wechseln (0,85mm)
 - [ ] Elektrische Verbindung zwischen Platine und der Messingleiste herstellen 
 - [ ] Knuppel zum spannen nach links schieben 
 - [ ] Kugellager von der Bohrerspitze aus aufschieben
 - [ ] Bohrer mit der Magnetplatte in die Spannvorrichtung stecken
 - [ ] Knuppel nach rechts schieben und festen Sitz kontrollieren
 - [ ] Bohren starten 
-- [ ] Edge cut: 
+- [ ] Edge cut:
+- [ ] Fräser für die Edge cut wählen (0.0945" Square End Mill)
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
 - [ ] Knuppel zum spannen nach links schieben 
 - [ ] Kugellager von der Frässpitze aus aufschieben
