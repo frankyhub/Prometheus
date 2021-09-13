@@ -23,6 +23,7 @@ KiCad:
 - [ ] Gleich große Bohrlöcher (Empfehlung)
 - [ ] Offset links unten einfügen
 - [ ] Ursprung links unten einfügen
+- [ ] Die Edge Cut Linien müssen in sich geschlossen sein
 - [ ] Plotter Einstellungen anpassen
 - [ ] Leerzeichen aus drl-Datei löschen
 
