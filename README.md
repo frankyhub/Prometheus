@@ -18,17 +18,14 @@
 
 Kicad:
 
-Max Platinengröße: 160 x 100
-
-Große Pads
-
-Gleich große Bohrlöcher
-
-Große Leiterbahn Abstände
-
-Plotter Einstellungen ändern
-
-Leerzeichen aus drl-Datei löschen
+- [ ] Max Platinengröße: 160 x 100
+- [ ] Große Pads
+- [ ] Gleich große Bohrlöcher
+- [ ] Große Leiterbahn Abstände
+- [ ] Offset links unten einfügen
+- [ ] Ursprung links unten einfügen
+- [ ] Plotter Einstellungen ändern
+- [ ] Leerzeichen aus drl-Datei löschen
 
 Fräse:
 
