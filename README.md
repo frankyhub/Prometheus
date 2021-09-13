@@ -16,7 +16,7 @@
 ### Checkliste
 
 
-Kicad:
+KiCad:
 
 - [ ] Max Platinengröße: 160 x 100
 - [ ] Große Pads
