@@ -42,8 +42,6 @@ Fräse:
 - [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
 - [ ] Knuppel nach rechts schieben
 - [ ] Fräsvorgang starten
-
-
 - [ ] Fräser  für Bohrlöcher wechseln
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
 - [ ] Knuppel zum spannen nach links schieben 
