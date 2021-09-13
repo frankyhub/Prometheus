@@ -72,17 +72,22 @@ KiCad:
 
 Plotter Einstellungen
 
+
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad4.png)
 
 Bohrdatei Einstellungen
+
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad5.png)
 
 Änderung in der Drilldatei
 
+
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/drill1.png)
 
 Procam Einstellungen
+
+
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/Prom1.png)
 
 
