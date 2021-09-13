@@ -17,68 +17,46 @@
 
 
 Kicad:
+
+Max Platinengröße: 160 x 100
+
 Große Pads
 
 Gleich große Bohrlöcher
 
 Große Leiterbahn Abstände
 
-Plotter Eistellungen ändern
+Plotter Einstellungen ändern
 
-Leerzeichen löschen
+Leerzeichen aus drl-Datei löschen
 
 Fräse:
 
-- [ ] Kontrolle
-- [x] - Kontrolle
+- [ ] Top-Copper und Drill-Dateien laden
+- [ ] Top-COpper Bohrwerkzeug einstellen .005 in (.130mm) 15 deg. mil
+- [ ] Anzahl der Durchgänge festlegen (3)
+- [ ] Platine mit doppelseitigen Klebeband mit 4 Reihen fixieren
+- [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
+- [ ] Platinenoberfläche mit Öl benetzen
+- [ ] Werkzeug spannen
+- [ ] .005 in (.130mm) 15 deg. mil Fräser spannen 
+- [ ] Knuppel zum spannen nach links schieben 
+- [ ] Kugellager von der Frässpitze aus aufschieben
+- [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
+- [ ] Knuppel nach rechts schieben
+- [ ] Fräsvorgang starten
 
-![image](https://user-images.githubusercontent.com/61152841/133024511-c466d947-787a-40c3-9472-26b9eed16f23.png)
-Platine mit doppelseitigen Klebeband mit 4 Reihen fixieren
 
-![image](https://user-images.githubusercontent.com/61152841/133024515-001684ac-5d6f-4b46-9c72-55bb76597786.png)
-Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
-
-![image](https://user-images.githubusercontent.com/61152841/133024522-5fab964f-aaa8-4713-85e9-57dde7770782.png)
-Platinenoberfläche mit Öl benetzen
-
-![image](https://user-images.githubusercontent.com/61152841/133024531-b6bcf558-6b07-4c51-828f-82c20d6c0feb.png)
-Werkzeug spannen
-
-![image](https://user-images.githubusercontent.com/61152841/133024533-dcb9017f-0364-4cfe-9347-7ef49f8077b7.png)
-0,015 Fräser spannen 
-
-![image](https://user-images.githubusercontent.com/61152841/133024536-e52bad55-eab8-471a-87a5-1ce290256fed.png)
-Knuppel zum spannen nach links schieben 
-
-![image](https://user-images.githubusercontent.com/61152841/133024541-81a7718d-7cee-46bf-a23b-57a314270ab3.png)
-Kugellager von der Frässpitze aus aufschieben
-
-![image](https://user-images.githubusercontent.com/61152841/133024543-dc8c29bc-0964-419d-b68b-318c637d514a.png)
-Mit der Magnetplatte in die Spannvorrichtung stecken
-
-![image](https://user-images.githubusercontent.com/61152841/133024547-b27df3cc-3e32-4db9-9898-bb9f91e55c84.png)
-Knuppel nach rechts schieben
-
-![image](https://user-images.githubusercontent.com/61152841/133024548-d963c83f-8696-4655-907c-b67786ce2e42.png)
-Dateien laden
-
-![image](https://user-images.githubusercontent.com/61152841/133024550-43bfecbb-2d55-4efe-857a-908e5ac23af5.png)
-Fräsvorgang Starten
-
-![image](https://user-images.githubusercontent.com/61152841/133024554-6d22cf59-ebc8-4b23-8df0-98c30efd95a3.png)
-Fräser  Bohrlöcher wechseln
-
-![image](https://user-images.githubusercontent.com/61152841/133024558-cd75e04c-3322-4734-8dcb-7b49291d75e6.png)
-Bohren starten 
-
-![image](https://user-images.githubusercontent.com/61152841/133024561-67c260a9-7973-48d2-9fb9-b8f7c7e467e1.png)
-Fräser Edge cut wechseln
-
-![image](https://user-images.githubusercontent.com/61152841/133024566-3b09abe0-b3cc-4cee-84d9-db570f43acb1.png)
-Öl aufbringen 
-
-![image](https://user-images.githubusercontent.com/61152841/133024569-1b5b8a5e-05e9-4a84-93ba-5c49f94c6701.png)
-Cutten starten
+- [ ] Fräser  für Bohrlöcher wechseln
+- [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
+- [ ] Knuppel zum spannen nach links schieben 
+- [ ] Kugellager von der Frässpitze aus aufschieben
+- [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
+- [ ] Knuppel nach rechts schieben
+- [ ] Bohren starten 
+- [ ] Fräser Edge cut wechseln
+- [ ] Öl aufbringen 
+- [ ] Cutten starten
 
 
 
