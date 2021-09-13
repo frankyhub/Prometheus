@@ -29,10 +29,10 @@ KiCad:
 
 Prometheus:
 
-- [ ] Top-Copper und Drill-Dateien laden
+- [ ] Top-Copper, Drill und Cut-Dateien laden
 - [ ] Top-COpper Bohrwerkzeug einstellen .005 in (.130mm) 15 deg. mil
 - [ ] Anzahl der Durchgänge festlegen (3)
-- [ ] Platine mit doppelseitigen Klebeband mit 4 Reihen fixieren
+- [ ] Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
 - [ ] Werkzeug spannen
 - [ ] .005 in (.130mm) 15 deg. mil Fräser spannen 
@@ -49,12 +49,13 @@ Prometheus:
 - [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
 - [ ] Knuppel nach rechts schieben
 - [ ] Bohren starten 
+- [ ] Edge cut 
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
 - [ ] Knuppel zum spannen nach links schieben 
 - [ ] Kugellager von der Frässpitze aus aufschieben
 - [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
 - [ ] Knuppel nach rechts schieben
-- [ ] Fräser Edge cut wechseln
+- [ ] Fräser für Edge cut wechseln
 - [ ] Öl aufbringen, ggf Späne absaugen 
 - [ ] Edge cut starten
 - [ ] Arbeitsplatz aufräumen
