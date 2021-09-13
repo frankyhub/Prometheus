@@ -34,7 +34,7 @@ Prometheus:
 - [ ] Anzahl der Durchgänge festlegen (Empfwhlung 3)
 - [ ] Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
-- [ ] Leiterbahnen feäsen:
+- [ ] Leiterbahnen fräsen:
 - [ ] Werkzeug einspannen
 - [ ] .005 in (.130mm) 15 deg. mil Fräser einspannen 
 - [ ] Knuppel zum spannen nach links schieben 
