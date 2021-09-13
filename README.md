@@ -29,6 +29,8 @@ Leerzeichen löschen
 
 Fräse:
 
+[] Kontrolle
+
 ![image](https://user-images.githubusercontent.com/61152841/133024511-c466d947-787a-40c3-9472-26b9eed16f23.png)
 Platine mit doppelseitigen Klebeband mit 4 Reihen fixieren
 
