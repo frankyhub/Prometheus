@@ -28,36 +28,35 @@ KiCad:
 
 Prometheus:
 
-- [ ] Top-Copper, Drill und Cut-Dateien laden
-- [ ] Top-Copper Bohrwerkzeug einstellen .005 in (.130mm) 15 deg. mil
-- [ ] Anzahl der Durchgänge festlegen (Empfwhlung 3)
+- [ ] Top-Copper, Drill und Cut-Datei laden
+- [ ] Top-Copper Bohrwerkzeug einstellen (.005 in (.130mm) 15 deg. mil)
+- [ ] Anzahl der Durchgänge festlegen (Empfehlung 3)
 - [ ] Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
-- [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
+- [ ] Elektrische Verbindung zwischen Platine und der Messingleiste herstellen 
 - [ ] Leiterbahnen fräsen:
 - [ ] Werkzeug einspannen
 - [ ] .005 in (.130mm) 15 deg. mil Fräser einspannen 
 - [ ] Knuppel zum spannen nach links schieben 
 - [ ] Kugellager von der Frässpitze aus aufschieben
-- [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
-- [ ] Knuppel nach rechts schieben
+- [ ] Fräser mit der Magnetplatte in die Spannvorrichtung stecken
+- [ ] Knuppel nach rechts schieben und festen Sitz kontrollieren
 - [ ] Platinenoberfläche mit Öl benetzen
 - [ ] Fräsvorgang starten
 - [ ] Drill:
 - [ ] Bohrer für die Bohrlöcher wechseln
-- [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
+- [ ] Elektrische Verbindung zwischen Platine und der Messingleiste herstellen 
 - [ ] Knuppel zum spannen nach links schieben 
-- [ ] Kugellager von der Frässpitze aus aufschieben
-- [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
-- [ ] Knuppel nach rechts schieben
+- [ ] Kugellager von der Bohrerspitze aus aufschieben
+- [ ] Bohrer mit der Magnetplatte in die Spannvorrichtung stecken
+- [ ] Knuppel nach rechts schieben und festen Sitz kontrollieren
 - [ ] Bohren starten 
 - [ ] Edge cut: 
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
 - [ ] Knuppel zum spannen nach links schieben 
 - [ ] Kugellager von der Frässpitze aus aufschieben
-- [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
-- [ ] Knuppel nach rechts schieben
-- [ ] Fräser für Edge cut wechseln
-- [ ] Öl aufbringen, ggf Späne absaugen 
+- [ ] Fräser mit der Magnetplatte in die Spannvorrichtung stecken
+- [ ] Knuppel nach rechts schieben und festen Sitz kontrollieren
+- [ ] Öl aufbringen, ggf. Späne absaugen 
 - [ ] Edge cut starten
 - [ ] Arbeitsplatz aufräumen
 
