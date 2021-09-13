@@ -1,15 +1,15 @@
 # Prometheus
 
-### 4 Kanal LL
+### Beispiel: 4 Kanal LL
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/4Kanal-LL.png)
 
-### Zippyrobotics
+### Link zu Zippyrobotics
 [Home](https://www.zippyrobotics.com/)
 
-### ProCam
+### ProCam download
 [Download](https://www.zippyrobotics.com/download/)
 
-### Videos
+### walk trough Videos
 [How to](https://www.zippyrobotics.com/how-to/)
 
 
