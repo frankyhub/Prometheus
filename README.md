@@ -27,7 +27,7 @@ Kicad:
 - [ ] Plotter Einstellungen ändern
 - [ ] Leerzeichen aus drl-Datei löschen
 
-Fräse:
+Prometheus:
 
 - [ ] Top-Copper und Drill-Dateien laden
 - [ ] Top-COpper Bohrwerkzeug einstellen .005 in (.130mm) 15 deg. mil
