@@ -27,7 +27,9 @@ Plotter Eistellungen ändern
 
 Leerzeichen löschen
 
+Fräse:
 
+![image](https://user-images.githubusercontent.com/61152841/133024466-0c63bed0-2151-407f-afdd-af4952fea6aa.png)
 Platine mit doppelseitigen Klebeband mit 4 Reihen fixieren
 
 Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
