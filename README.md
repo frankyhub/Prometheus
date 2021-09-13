@@ -9,8 +9,8 @@
 ### ProCam download
 [Download](https://www.zippyrobotics.com/download/)
 
-### walk trough Videos
-[How to](https://www.zippyrobotics.com/how-to/)
+### How TO and Guides Videos
+[walk trough](https://www.zippyrobotics.com/how-to/)
 
 
 ### Checkliste
@@ -19,37 +19,39 @@
 KiCad:
 
 - [ ] Max Platinengröße: 160 x 100
-- [ ] Große Pads
-- [ ] Gleich große Bohrlöcher
-- [ ] Große Leiterbahn Abstände
+- [ ] Große Pads (Empfehlung)
+- [ ] Gleich große Bohrlöcher (Empfehlung)
+- [ ] Große Leiterbahn Abstände (Empfehlung)
 - [ ] Offset links unten einfügen
 - [ ] Ursprung links unten einfügen
-- [ ] Plotter Einstellungen ändern
+- [ ] Plotter Einstellungen anpassen
 - [ ] Leerzeichen aus drl-Datei löschen
 
 Prometheus:
 
 - [ ] Top-Copper, Drill und Cut-Dateien laden
-- [ ] Top-COpper Bohrwerkzeug einstellen .005 in (.130mm) 15 deg. mil
-- [ ] Anzahl der Durchgänge festlegen (3)
+- [ ] Top-Copper Bohrwerkzeug einstellen .005 in (.130mm) 15 deg. mil
+- [ ] Anzahl der Durchgänge festlegen (Empfwhlung 3)
 - [ ] Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
-- [ ] Werkzeug spannen
-- [ ] .005 in (.130mm) 15 deg. mil Fräser spannen 
+- [ ] Leiterbahnen feäsen:
+- [ ] Werkzeug einspannen
+- [ ] .005 in (.130mm) 15 deg. mil Fräser einspannen 
 - [ ] Knuppel zum spannen nach links schieben 
 - [ ] Kugellager von der Frässpitze aus aufschieben
 - [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
 - [ ] Knuppel nach rechts schieben
 - [ ] Platinenoberfläche mit Öl benetzen
 - [ ] Fräsvorgang starten
-- [ ] Fräser für die Bohrlöcher wechseln
+- [ ] Drill:
+- [ ] Bohrer für die Bohrlöcher wechseln
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
 - [ ] Knuppel zum spannen nach links schieben 
 - [ ] Kugellager von der Frässpitze aus aufschieben
 - [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
 - [ ] Knuppel nach rechts schieben
 - [ ] Bohren starten 
-- [ ] Edge cut 
+- [ ] Edge cut: 
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
 - [ ] Knuppel zum spannen nach links schieben 
 - [ ] Kugellager von der Frässpitze aus aufschieben
