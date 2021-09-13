@@ -34,24 +34,30 @@ Fräse:
 - [ ] Anzahl der Durchgänge festlegen (3)
 - [ ] Platine mit doppelseitigen Klebeband mit 4 Reihen fixieren
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
-- [ ] Platinenoberfläche mit Öl benetzen
 - [ ] Werkzeug spannen
 - [ ] .005 in (.130mm) 15 deg. mil Fräser spannen 
 - [ ] Knuppel zum spannen nach links schieben 
 - [ ] Kugellager von der Frässpitze aus aufschieben
 - [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
 - [ ] Knuppel nach rechts schieben
+- [ ] Platinenoberfläche mit Öl benetzen
 - [ ] Fräsvorgang starten
-- [ ] Fräser  für Bohrlöcher wechseln
+- [ ] Fräser für die Bohrlöcher wechseln
 - [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
 - [ ] Knuppel zum spannen nach links schieben 
 - [ ] Kugellager von der Frässpitze aus aufschieben
 - [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
 - [ ] Knuppel nach rechts schieben
 - [ ] Bohren starten 
+- [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
+- [ ] Knuppel zum spannen nach links schieben 
+- [ ] Kugellager von der Frässpitze aus aufschieben
+- [ ] Mit der Magnetplatte in die Spannvorrichtung stecken
+- [ ] Knuppel nach rechts schieben
 - [ ] Fräser Edge cut wechseln
-- [ ] Öl aufbringen 
-- [ ] Cutten starten
+- [ ] Öl aufbringen, ggf Späne absaugen 
+- [ ] Edge cut starten
+- [ ] Arbeitsplatz aufräumen
 
 
 ### Screenshots
