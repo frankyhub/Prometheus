@@ -14,29 +14,53 @@
 
 
 ### Checkliste
+
+
 Kicad:
 Große Pads
+
 Gleich große Bohrlöcher
+
 Große Leiterbahn Abstände
+
 Plotter Eistellungen ändern
+
 Leerzeichen löschen
 
+
 Platine mit doppelseitigen Klebeband mit 4 Reihen fixieren
+
 Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
+
 Platinenoberfläche mit Öl benetzen
+
 Werkzeug spannen
+
 0,015 Fräser spannen 
+
 Knuppel zum spannen nach links schieben 
+
 Kugellager von der Frässpitze aus aufschieben
+
 Mit der Magnetplatte in die Spannvorrichtung stecken
+
 Knuppel nach rechts schieben
+
 Dateien laden
+
 Fräsvorgang Starten
+
 Fräser  Bohrlöcher wechseln
+
 Bohren starten 
+
 Fräser Edge cut wechseln
+
 Öl aufbringen 
+
 Cutten starten
+
+
 
 
 ### Wiki
