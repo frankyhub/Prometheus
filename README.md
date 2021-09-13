@@ -3,7 +3,11 @@
 ### 4 Kanal LL
 ![image](https://github.com/frankyhub/Prometheus/blob/main/4Kanal-LL.jpg)
 
-[Zippy](https://www.zippyrobotics.com/)
+### Zippyrobotics
+[Home](https://www.zippyrobotics.com/)
 
 ### ProCam
 [Download](https://www.zippyrobotics.com/download/)
+
+### Videos
+[How to](https://www.zippyrobotics.com/how-to/)
