@@ -17,10 +17,11 @@ Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuer
 
 ### ProCAM installieren
 Nach dem Download sind folgende Schritte auszuführen:
-1. Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen,
-2. die Download-Dateien entpacken und in den Ordner kopieren,
-3. die EXE-Datei starten.
-4. Auf der Herstellerseite stehen auch Hilfe-Videos zur Verfügung.
+1. [Download](http://www.zippyrobotics/download/) von ProCAM
+2. Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen,
+3. die Download-Dateien entpacken und in den Ordner kopieren,
+4. die EXE-Datei starten.
+5. Auf der Herstellerseite stehen auch Hilfe-Videos zur Verfügung.
 
 
 ### Checklisten
@@ -30,6 +31,33 @@ ProCAM Installation
 - [ ] Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen
 - [ ] die Downlaod-Dateien in den Ordner kopieren
 - [ ] die EXE-Datei starten        
+
+
+
+### KiCad Checkliste
+In KiCad folgende Schritte ausführen:
+□ Die max Platinengröße: 160 x 100
+□ Große Pads verwenden (Empfehlung)
+□ Gleich große Bohrlöcher definieren (Empfehlung)
+□ Für einen positiven Arbeitsbereich der X-Y-Achsen den Offset für Bohrungen links unten einfügen
+□ Den Ursprung des Rasters links unten einfügen
+□ Die Edge Cut Linien müssen in sich geschlossen sein
+□ Die Plotter Einstellungen anpassen
+□ Die Plotter und Bohrdatei erzeugen
+□ Das Leerzeichen aus der DRL-Datei löschen
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 KiCad:
 
