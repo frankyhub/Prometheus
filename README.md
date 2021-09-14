@@ -27,7 +27,7 @@ Nach dem Download sind folgende Schritte auszuführen:
 ### Checklisten
 
 ProCAM Installation
-- [ ] [Download](http://www.zippyrobotics/download/) von ProCAM
+- [x] [Download](http://www.zippyrobotics/download/) von ProCAM
 - [ ] Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen
 - [ ] die Downlaod-Dateien in den Ordner kopieren
 - [ ] die EXE-Datei starten        
@@ -36,15 +36,15 @@ ProCAM Installation
 
 ### KiCad Checkliste
 In KiCad folgende Schritte ausführen:
-□ Die max Platinengröße: 160 x 100
-□ Große Pads verwenden (Empfehlung)
-□ Gleich große Bohrlöcher definieren (Empfehlung)
-□ Für einen positiven Arbeitsbereich der X-Y-Achsen den Offset für Bohrungen links unten einfügen
-□ Den Ursprung des Rasters links unten einfügen
-□ Die Edge Cut Linien müssen in sich geschlossen sein
-□ Die Plotter Einstellungen anpassen
-□ Die Plotter und Bohrdatei erzeugen
-□ Das Leerzeichen aus der DRL-Datei löschen
+- [ ] Die max Platinengröße: 160 x 100
+- [ ] Große Pads verwenden (Empfehlung)
+- [ ] Gleich große Bohrlöcher definieren (Empfehlung)
+- [ ] Für einen positiven Arbeitsbereich der X-Y-Achsen den Offset für Bohrungen links unten einfügen
+- [ ] Den Ursprung des Rasters links unten einfügen
+- [ ] Die Edge Cut Linien müssen in sich geschlossen sein
+- [ ] Die Plotter Einstellungen anpassen
+- [ ] Die Plotter und Bohrdatei erzeugen
+- [ ] Das Leerzeichen aus der DRL-Datei löschen
 
 
 
