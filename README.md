@@ -85,6 +85,18 @@ Procam
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/Prom1.png)
 
+Starter Pack
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom20.jpg)
+
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom21.jpg)
+
+Krokodilkemme 
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom22.jpg)
+
+Bohrer-Aufnahme
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom23.jpg)
+
+
 
 
 #### Link zu Zippyrobotics
@@ -95,7 +107,6 @@ Procam
 
 #### How To and Guides Videos
 [walk trough](https://www.zippyrobotics.com/how-to/)
-
 
 
 
