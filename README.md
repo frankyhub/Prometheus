@@ -43,7 +43,7 @@ Bohrdatei Einstellungen
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/drill1.png)
 
 
-### ProCAM Checkliste
+### ProCAM Checkliste (1-Layer)
 
 - [ ] Die Top-Copper, Drill- und Cut out-Datei importieren
 - [ ] Das Top-Copper Bohrwerkzeug einstellen (.005 in (.130mm) 15 deg. mil)
