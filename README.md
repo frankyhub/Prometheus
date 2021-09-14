@@ -47,7 +47,7 @@ Bohrdatei Einstellungen
 
 - [ ] Die Top-Copper, Drill- und Cut out-Datei importieren
 - [ ] Das Top-Copper Bohrwerkzeug einstellen (.005 in (.130mm) 15 deg. mil)
-- [ ] Die Anzahl der Durchgänge festlegen (Empfehlung 3)
+- [ ] Die Anzahl der Durchgänge festlegen (Empfehlung 2)
 - [ ] Die Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
 - [ ] Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen (Krokodilklemme)
 
