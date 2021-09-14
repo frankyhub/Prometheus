@@ -53,7 +53,7 @@ Bohrdatei Einstellungen
 
 Leiterbahnen fräsen:
 - [ ] Das Werkzeug einspannen
-- [ ] Den .005 in (.130mm) 15 deg. mil Fräser einspannen
+- [ ] Den .005 in (.130mm) 15 deg. mil Fräser einspannen (blau 5-mil 15°)
 - [ ] Die Knuppel zum spannen nach links schieben
 - [ ] Das Kugellager von der Frässpitze aus aufschieben
 - [ ] Den Fräser mit der Magnetplatte in die Spannvorrichtung stecken
@@ -62,7 +62,7 @@ Leiterbahnen fräsen:
 - [ ] Den Fräsvorgang starten
 
 Drill:
-- [ ] Den Bohrer für die Bohrlöcher wechseln (0,85mm)
+- [ ] Den Bohrer für die Bohrlöcher wechseln (lila 0,85mm)
 - [ ] Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen
 - [ ] Den Knuppel zum spannen nach links schieben
 - [ ] Das Kugellager von der Bohrerspitze aus aufschieben
