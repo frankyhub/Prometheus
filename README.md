@@ -18,7 +18,7 @@
 ProCAM Installation
 - [ ] [Download](http://www.zippyrobotics/download/) von ProCAM
 - [ ] Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen
-- [ ] die Downlaod-Dateien in den Ordner kpieren
+- [ ] die Downlaod-Dateien in den Ordner kopieren
 - [ ] die EXE-Datei starten        
 
 KiCad:
