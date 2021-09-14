@@ -71,7 +71,7 @@ Drill:
 - [ ] Den Bohrvorgang starten
 
 Edge cut:
-- [ ] Den Fräser für die Edge cut wählen (0.0945" Square End Mill)
+- [ ] Den Fräser für die Edge cut wählen (0.0315" Router Orange - Square End Mill)
 - [ ] Die Elektrische Verbindung zwischen Platine und Messingleiste herstellen
 - [ ] Den Knuppel zum spannen nach links schieben
 - [ ] Das Kugellager von der Frässpitze aus aufschieben
