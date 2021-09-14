@@ -1,16 +1,6 @@
 # Prometheus
 
-### Beispiel: 1 Layer 4 Kanal Lauflicht (Lötübung I)
-![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/4Kanal-LL.png)
 
-### Link zu Zippyrobotics
-[Home](https://www.zippyrobotics.com/)
-
-### ProCam download
-[Download](https://www.zippyrobotics.com/download/)
-
-### How To and Guides Videos
-[walk trough](https://www.zippyrobotics.com/how-to/)
 
 ### Einleitung
 Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuert wird die PCB-Fräse mit ProCAM von Zippy Robotics. Die Windows-Software steht auf der Herstellerseite zippyrobotics.com zum Download zur Verfügung. Das PCB-Design wird z. B. mit KiCad erstellt und die Layer in ProCAM importiert. In ProCAM werden auch alle Parameter wie Fräser- und Bohrerdurchmesser oder die Anzahl der Fräs-Durchgänge festgelegt.
@@ -22,17 +12,7 @@ Nach dem Download sind folgende Schritte auszuführen:
 3. die Download-Dateien entpacken und in den Ordner kopieren,
 4. die EXE-Datei starten.
 5. Auf der Herstellerseite stehen auch Hilfe-Videos zur Verfügung.
-
-
-### Checklisten
-
-ProCAM Installation
-- [x] [Download](http://www.zippyrobotics/download/) von ProCAM
-- [ ] Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen
-- [ ] die Downlaod-Dateien in den Ordner kopieren
-- [ ] die EXE-Datei starten        
-
-
+     
 
 ### KiCad Checkliste
 In KiCad folgende Schritte ausführen:
@@ -46,69 +26,7 @@ In KiCad folgende Schritte ausführen:
 - [ ] Die Plotter und Bohrdatei erzeugen
 - [ ] Das Leerzeichen aus der DRL-Datei löschen
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-KiCad:
-
-- [ ] Max Platinengröße: 160 x 100
-- [ ] Große Pads (Empfehlung)
-- [ ] Gleich große Bohrlöcher (Empfehlung)
-- [ ] Offset links unten einfügen
-- [ ] Ursprung links unten einfügen
-- [ ] Die Edge Cut Linien müssen in sich geschlossen sein
-- [ ] Plotter Einstellungen anpassen
-- [ ] Leerzeichen aus drl-Datei löschen
-
-Prometheus:
-
-- [ ] Top-Copper, Drill und Cut-Datei laden
-- [ ] Top-Copper Bohrwerkzeug einstellen (.005 in (.130mm) 15 deg. mil)
-- [ ] Anzahl der Durchgänge festlegen (Empfehlung 3)
-- [ ] Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
-- [ ] Elektrische Verbindung zwischen Platine und der Messingleiste herstellen 
-- [ ] Leiterbahnen fräsen:
-- [ ] Werkzeug einspannen
-- [ ] .005 in (.130mm) 15 deg. mil Fräser einspannen 
-- [ ] Knuppel zum spannen nach links schieben 
-- [ ] Kugellager von der Frässpitze aus aufschieben
-- [ ] Fräser mit der Magnetplatte in die Spannvorrichtung stecken
-- [ ] Knuppel nach rechts schieben und festen Sitz kontrollieren
-- [ ] Platinenoberfläche mit Öl benetzen
-- [ ] Fräsvorgang starten
-- [ ] Drill: 
-- [ ] Bohrer für die Bohrlöcher wechseln (0,85mm)
-- [ ] Elektrische Verbindung zwischen Platine und der Messingleiste herstellen 
-- [ ] Knuppel zum spannen nach links schieben 
-- [ ] Kugellager von der Bohrerspitze aus aufschieben
-- [ ] Bohrer mit der Magnetplatte in die Spannvorrichtung stecken
-- [ ] Knuppel nach rechts schieben und festen Sitz kontrollieren
-- [ ] Bohren starten 
-- [ ] Edge cut:
-- [ ] Fräser für die Edge cut wählen (0.0945" Square End Mill)
-- [ ] Elektrische Verbindung zwischen Platine und Messingleiste herstellen 
-- [ ] Knuppel zum spannen nach links schieben 
-- [ ] Kugellager von der Frässpitze aus aufschieben
-- [ ] Fräser mit der Magnetplatte in die Spannvorrichtung stecken
-- [ ] Knuppel nach rechts schieben und festen Sitz kontrollieren
-- [ ] Öl aufbringen, ggf. Späne absaugen 
-- [ ] Edge cut starten
-- [ ] Arbeitsplatz aufräumen
-
-
-### Screenshots
-
-KiCad:
+Positiven Arbeitsbereich für die X-Y-Achse festlegen
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad1.png)
 
@@ -129,11 +47,63 @@ Bohrdatei Einstellungen
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/drill1.png)
 
+
+ProCAM Checkliste
+
+In ProCAM folgende Schritte ausführen:
+- [ ] Die Top-Copper, Drill- und Cut out-Datei importieren
+- [ ] Das Top-Copper Bohrwerkzeug einstellen (.005 in (.130mm) 15 deg. mil)
+- [ ] Die Anzahl der Durchgänge festlegen (Empfehlung 3)
+- [ ] Die Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
+- [ ] Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen (Krokodilklemme)
+
+Leiterbahnen fräsen:
+- [ ] Das Werkzeug einspannen
+- [ ] Den .005 in (.130mm) 15 deg. mil Fräser einspannen
+- [ ] Die Knuppel zum spannen nach links schieben
+- [ ] Das Kugellager von der Frässpitze aus aufschieben
+- [ ] Den Fräser mit der Magnetplatte in die Spannvorrichtung stecken
+- [ ] Den Knuppel nach rechts schieben und festen Sitz kontrollieren
+- [ ] Die Platinenoberfläche mit Öl benetzen
+- [ ] Den Fräsvorgang starten
+
+Drill:
+- [ ] Den Bohrer für die Bohrlöcher wechseln (0,85mm)
+- [ ] Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen
+- [ ] Den Knuppel zum spannen nach links schieben
+- [ ] Das Kugellager von der Bohrerspitze aus aufschieben
+- [ ] Den Bohrer mit der Magnetplatte in die Spannvorrichtung stecken
+- [ ] Den Knuppel nach rechts schieben und festen Sitz kontrollieren
+- [ ] Den Bohrvorgang starten
+
+Edge cut:
+- [ ] Den Fräser für die Edge cut wählen (0.0945" Square End Mill)
+- [ ] Die Elektrische Verbindung zwischen Platine und Messingleiste herstellen
+- [ ] Den Knuppel zum spannen nach links schieben
+- [ ] Das Kugellager von der Frässpitze aus aufschieben
+- [ ] Den Fräser mit der Magnetplatte in die Spannvorrichtung stecken
+- [ ] Den Knuppel nach rechts schieben und festen Sitz kontrollieren
+- [ ] Die Platinenoberfläche mit Öl benetzen, ggf die Späne absaugen
+- [ ] Den Edge cut starten
+- [ ] Den Arbeitsplatz aufräumen
+
 Procam Einstellungen
 
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/Prom1.png)
 
+
+
+### Links
+
+### Link zu Zippyrobotics
+[Home](https://www.zippyrobotics.com/)
+
+### ProCam download
+[Download](https://www.zippyrobotics.com/download/)
+
+### How To and Guides Videos
+[walk trough](https://www.zippyrobotics.com/how-to/)
 
 
 
