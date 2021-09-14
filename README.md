@@ -87,14 +87,12 @@ Edge cut:
 - [ ] Den Edge cut starten
 - [ ] Den Arbeitsplatz aufräumen
 
-Procam Einstellungen
+Procam
 
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/Prom1.png)
 
 
-
-### Links
 
 ### Link zu Zippyrobotics
 [Home](https://www.zippyrobotics.com/)
