@@ -6,7 +6,6 @@
 Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuert wird die PCB-Fräse mit ProCAM von Zippy Robotics. Die Windows-Software steht auf der Herstellerseite zippyrobotics.com zum Download zur Verfügung. Das PCB-Design wird z. B. mit KiCad erstellt und die Layer in ProCAM importiert. In ProCAM werden auch alle Parameter wie Fräser- und Bohrerdurchmesser oder die Anzahl der Fräs-Durchgänge festgelegt.
 
 ### ProCAM installieren
-Nach dem Download sind folgende Schritte auszuführen:
 1. [Download](http://www.zippyrobotics/download/) von ProCAM
 2. Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen,
 3. die Download-Dateien entpacken und in den Ordner kopieren,
@@ -15,7 +14,6 @@ Nach dem Download sind folgende Schritte auszuführen:
      
 
 ### KiCad Checkliste
-In KiCad folgende Schritte ausführen:
 - [ ] Die max Platinengröße: 160 x 100
 - [ ] Große Pads verwenden (Empfehlung)
 - [ ] Gleich große Bohrlöcher definieren (Empfehlung)
@@ -34,23 +32,19 @@ Positiven Arbeitsbereich für die X-Y-Achse festlegen
 
 Plotter Einstellungen
 
-
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad4.png)
 
 Bohrdatei Einstellungen
-
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad5.png)
 
 Änderung in der Drilldatei
 
-
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/drill1.png)
 
 
-ProCAM Checkliste
+### ProCAM Checkliste
 
-In ProCAM folgende Schritte ausführen:
 - [ ] Die Top-Copper, Drill- und Cut out-Datei importieren
 - [ ] Das Top-Copper Bohrwerkzeug einstellen (.005 in (.130mm) 15 deg. mil)
 - [ ] Die Anzahl der Durchgänge festlegen (Empfehlung 3)
@@ -88,7 +82,6 @@ Edge cut:
 - [ ] Den Arbeitsplatz aufräumen
 
 Procam
-
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/Prom1.png)
 
