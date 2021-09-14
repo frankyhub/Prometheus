@@ -6,7 +6,7 @@
 Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuert wird die PCB-Fräse mit ProCAM von Zippy Robotics. Die Windows-Software steht auf der Herstellerseite zippyrobotics.com zum Download zur Verfügung. Das PCB-Design wird z. B. mit KiCad erstellt und die Layer in ProCAM importiert. In ProCAM werden auch alle Parameter wie Fräser- und Bohrerdurchmesser oder die Anzahl der Fräs-Durchgänge festgelegt.
 
 ### ProCAM installieren
-1. [Download](http://www.zippyrobotics/download/) von ProCAM
+1. [Download](http://www.zippyrobotics.com/download/) von ProCAM
 2. Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen
 3. die Download-Dateien entpacken und in den Ordner kopieren
 4. die EXE-Datei starten
