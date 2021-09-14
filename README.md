@@ -16,7 +16,7 @@
 ### Checklisten
 
 ProCAM Installation
-- [ ] Download von ProCAM [](http://www.zippyrobotics/download/)
+- [ ] [Download](http://www.zippyrobotics/download/) von ProCAM
 - [ ] Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen
 - [ ] die Downlaod-Dateien in den Ordner kpieren
 - [ ] die EXE-Datei starten        
