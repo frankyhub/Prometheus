@@ -8,7 +8,7 @@ Die Gerber Dateien
 - Drill FIle: protest1.drl
 - Cutout File: protest1-Edge_Cuts.gbr
 
-für einen Test in ProCAM-Test laden.
+für einen Test in ProCAM laden.
 
 
 
