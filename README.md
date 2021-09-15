@@ -83,7 +83,7 @@ Cut out:
 
 Procam
 
-![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/Prom1.png)
+![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/ProCAM20.png)
 
 Starter Pack
 
