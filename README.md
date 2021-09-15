@@ -67,6 +67,7 @@ Drill:
 - [ ] Das Kugellager von der Bohrerspitze aus aufschieben
 - [ ] Den Bohrer mit der Magnetplatte in die Spannvorrichtung stecken
 - [ ] Den Knuppel nach rechts schieben und festen Sitz kontrollieren
+- [ ] Die Platinenoberfläche mit Öl benetzen
 - [ ] Den Bohrvorgang starten
 
 Cut out:
