@@ -34,7 +34,7 @@ Plotter Einstellungen
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad4.png)
 
-Bohrdatei Einstellungen
+Drilldatei Einstellungen
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad5.png)
 
