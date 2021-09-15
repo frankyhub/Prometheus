@@ -51,7 +51,7 @@ Drilldatei Einstellungen
 - [ ] Die Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
 - [ ] Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen (Krokodilklemme)
 
-Leiterbahnen fräsen:
+Top  Copper:
 - [ ] Den .005 in (.130mm) 15 deg. mil Fräser einspannen (blau 5-mil 15°)
 - [ ] Die Knuppel zum spannen nach links schieben
 - [ ] Das Kugellager von der Frässpitze aus aufschieben
@@ -69,7 +69,7 @@ Drill:
 - [ ] Den Knuppel nach rechts schieben und festen Sitz kontrollieren
 - [ ] Den Bohrvorgang starten
 
-Edge cut:
+Cut out:
 - [ ] Den Fräser für die Edge cut wählen (0.0315" Router Orange - Square End Mill)
 - [ ] Die Elektrische Verbindung zwischen Platine und Messingleiste herstellen
 - [ ] Den Knuppel zum spannen nach links schieben
