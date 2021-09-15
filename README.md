@@ -52,7 +52,6 @@ Bohrdatei Einstellungen
 - [ ] Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen (Krokodilklemme)
 
 Leiterbahnen fräsen:
-- [ ] Das Werkzeug einspannen
 - [ ] Den .005 in (.130mm) 15 deg. mil Fräser einspannen (blau 5-mil 15°)
 - [ ] Die Knuppel zum spannen nach links schieben
 - [ ] Das Kugellager von der Frässpitze aus aufschieben
@@ -79,7 +78,7 @@ Edge cut:
 - [ ] Den Knuppel nach rechts schieben und festen Sitz kontrollieren
 - [ ] Die Platinenoberfläche mit Öl benetzen, ggf die Späne absaugen
 - [ ] Den Edge cut starten
-- [ ] Den Arbeitsplatz aufräumen
+- [ ] Den Arbeitsplatz aufräumen und die Prometheus reinigen.
 
 Procam
 
