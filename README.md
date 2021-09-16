@@ -91,7 +91,7 @@ Fräser und Bohrer Starter Pack
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom20.jpg)
 
-
+Für den Test wurden "Blau, Rot und Lila" verwendet
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom21.jpg)
 
