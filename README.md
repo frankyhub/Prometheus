@@ -87,7 +87,7 @@ Beispiel verschiedener Pad-Durchmesser und Leiterbahnbreiten
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/ProCAM21.png)
 
-Starter Pack
+Fräser und Bohrer Starter Pack
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom20.jpg)
 
