@@ -44,7 +44,7 @@ Drilldatei Einstellungen
 ### ProCAM Checkliste (1-Layer)
 
 - [ ] Die Top-Copper, Drill- und Cut out-Datei importieren
-- [ ] Das Top-Copper Bohrwerkzeug einstellen (.005 in (.130mm) 15 deg. mil)
+- [ ] Das Top-Copper Bohrwerkzeug einstellen (.005 in (.130mm) 15 deg. mill)
 - [ ] Die Anzahl der Durchgänge festlegen (Empfehlung 2)
 - [ ] Die Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
 - [ ] Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen (Krokodilklemme)
