@@ -79,7 +79,7 @@ Cut out:
 - [ ] Den Edge cut starten
 - [ ] Den Arbeitsplatz aufräumen und die Prometheus reinigen.
 
-Procam
+ProCAM Startseite
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/ProCAM20.png)
 
