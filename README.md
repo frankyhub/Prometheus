@@ -50,7 +50,7 @@ Drilldatei Einstellungen
 - [ ] Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen (Krokodilklemme)
 
 Top  Copper:
-- [ ] Den .005 in (.130mm) 15 deg. mil Fräser einspannen (blau 5-mil 15°)
+- [ ] Den .005 in (.130mm) 15 deg. mill Fräser einspannen (blau 5-mill 15°)
 - [ ] Die Knuppel zum spannen nach links schieben
 - [ ] Das Kugellager von der Frässpitze aus aufschieben
 - [ ] Den Fräser mit der Magnetplatte in die Spannvorrichtung stecken
