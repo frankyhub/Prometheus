@@ -24,7 +24,7 @@ Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuer
 - [ ] Die Plotter und Bohrdatei erzeugen
 - [ ] Das Leerzeichen aus der DRL-Datei löschen
 
-Positiven Arbeitsbereich für die X-Y-Achse festlegen
+Den positiven Arbeitsbereich für die X-Y-Achse festlegen (Offset für Bohrungen und Platzierungen)
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad1.png)
 
