@@ -44,7 +44,7 @@ Drilldatei Einstellungen
 ### ProCAM Checkliste (1-Layer)
 
 - [ ] Die Top-Copper, Drill- und Cut out-Datei importieren
-- [ ] Das Top-Copper Bohrwerkzeug einstellen (.005 in (.130mm) 15 deg. mill)
+- [ ] Das Top-Copper Bohrwerkzeug einstellen (blau .005 in (.130mm) 15 deg. mill)
 - [ ] Die Anzahl der Durchgänge festlegen (Empfehlung 2)
 - [ ] Die Platine mit doppelseitigen Klebeband (4 Reihen) fixieren
 - [ ] Die Elektrische Verbindung zwischen Platine und der Messingleiste herstellen (Krokodilklemme)
@@ -69,7 +69,7 @@ Drill:
 - [ ] Den Bohrvorgang starten
 
 Cut out:
-- [ ] Den Fräser für die Edge cut wählen (0.0315" Router Orange - Square End Mill)
+- [ ] Den Fräser für die Edge cut wählen (rot 0.0315" Router - Square End Mill)
 - [ ] Die Elektrische Verbindung zwischen Platine und Messingleiste herstellen
 - [ ] Den Knuppel zum spannen nach links schieben
 - [ ] Das Kugellager von der Frässpitze aus aufschieben
@@ -91,7 +91,7 @@ Fräser und Bohrer Starter Pack
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom20.jpg)
 
-Für den Test wurden "Blau, Rot und Lila" verwendet
+Für den Test wurden "Blau, Lila und Rot" verwendet
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom21.jpg)
 
