@@ -101,7 +101,7 @@ Die Krokodilkemme wird zur Kalibrierung der Platine zum Fräser benötigt
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom22.jpg)
 
-Die Bohrer-Aufnahme
+Die Fräser-Aufnahme
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom23.jpg)
 
