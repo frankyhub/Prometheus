@@ -28,8 +28,6 @@ Positiven Arbeitsbereich für die X-Y-Achse festlegen
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad1.png)
 
-![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad2.png)
-
 Plotter Einstellungen
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad4.png)
