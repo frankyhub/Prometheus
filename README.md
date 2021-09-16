@@ -79,15 +79,15 @@ Cut out:
 - [ ] Den Edge cut starten
 - [ ] Den Arbeitsplatz aufräumen und die Prometheus reinigen.
 
-ProCAM Startseite
+Die ProCAM Startseite
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/ProCAM20.png)
 
-Beispiel verschiedener Pad-Durchmesser und Leiterbahnbreiten
+Ein Beispiel verschiedener Pad-Durchmesser und Leiterbahnbreiten
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/ProCAM21.png)
 
-Fräser und Bohrer Starter Pack
+Das Fräser und Bohrer Starter Pack
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom20.jpg)
 
@@ -97,11 +97,11 @@ Für den Test wurden "Blau, Lila und Rot" verwendet
 
 
 
-Krokodilkemme 
+Die Krokodilkemme wird zur Kalibrierung der Platine zum Fräser benötigt
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom22.jpg)
 
-Bohrer-Aufnahme
+Die Bohrer-Aufnahme
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom23.jpg)
 
