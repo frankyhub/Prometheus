@@ -28,15 +28,15 @@ Den positiven Arbeitsbereich für die X-Y-Achse festlegen (Offset für Bohrungen
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad1.png)
 
-Plotter Einstellungen
+Die Plotter Einstellungen
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad4.png)
 
-Drilldatei Einstellungen
+Die Drilldatei Einstellungen
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad5.png)
 
-Änderung in der Drilldatei (;FORMAT)
+Änderung in der Drilldatei (Das Leerzeichen löschen - ;FORMAT)
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/drill1.png)
 
