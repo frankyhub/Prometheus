@@ -36,7 +36,7 @@ Drilldatei Einstellungen
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/kicad5.png)
 
-Änderung in der Drilldatei
+Änderung in der Drilldatei (;FORMAT)
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/drill1.png)
 
