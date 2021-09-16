@@ -97,7 +97,7 @@ Für den Test wurden "Blau, Lila und Rot" verwendet
 
 
 
-Die Krokodilkemme wird zur Kalibrierung der Platine zum Fräser benötigt
+Die Krokodilkemme wird zur Abstands-Kalibrierung der Platine zum Fräser benötigt
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom22.jpg)
 
