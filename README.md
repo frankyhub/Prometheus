@@ -18,7 +18,7 @@ Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuer
 - [ ] Große Pads verwenden (Empfehlung 3mm)
 - [ ] Großen Leiterbahnquerschnitt verwenden (Empfehlung 0.5mm)
 - [ ] Gleich große Bohrlöcher definieren (Empfehlung 0,85mm)
-- [ ] Für einen positiven Arbeitsbereich der X-Y-Achsen den Offset für Bohrungen und Platzierungen links unten einfügen
+- [ ] Für einen positiven Arbeitsbereich der X-Y-Achse den Offset für Bohrungen und Platzierungen links unten einfügen
 - [ ] Die Edge Cut Linien müssen in sich geschlossen sein
 - [ ] Die Plotter Einstellungen anpassen
 - [ ] Die Plotter und Bohrdatei erzeugen
