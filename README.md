@@ -83,6 +83,8 @@ ProCAM Startseite
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/ProCAM20.png)
 
+Beispiel verschiedener Pad-Durchmesser und Leiterbahnbreiten
+
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/ProCAM21.png)
 
 Starter Pack
