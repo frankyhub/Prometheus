@@ -21,13 +21,19 @@
 ### Einleitung
 Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuert wird die PCB-Fräse mit ProCAM von Zippy Robotics. Die Windows-Software steht auf der Herstellerseite zippyrobotics.com zum Download zur Verfügung. Das PCB-Design wird z. B. mit KiCad erstellt und die Layer in ProCAM importiert. In ProCAM werden auch alle Parameter wie Fräser- und Bohrerdurchmesser oder die Anzahl der Fräs-Durchgänge festgelegt.
 
+
+-------------------------------------------------------------
+
+
 ### ProCAM installieren
 1. [Download](http://www.zippyrobotics.com/download/) von ProCAM
 2. Den Ordner C:\Program Files (x86)\Zippy Robotics erstellen
 3. die Download-Dateien entpacken und in den Ordner kopieren
 4. die EXE-Datei starten
 5. Auf der Herstellerseite stehen auch Hilfe-Videos zur Verfügung
-     
+
+-------------------------------------------------------------
+
 
 ### KiCad Checkliste
 - [ ] Die max Platinengröße: 160 x 100
@@ -40,6 +46,8 @@ Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuer
 - [ ] Die Plotter und Bohrdatei erzeugen
 - [ ] Das Leerzeichen aus der DRL-Datei löschen
 
+
+-------------------------------------------------------------
 
 Den positiven Arbeitsbereich für die X-Y-Achse festlegen (Offset für Bohrungen und Platzierungen)
 
@@ -61,6 +69,8 @@ Die Drilldatei Einstellungen
 
 [nach oben](#prometheus)
 
+
+-------------------------------------------------------------
 
 ### ProCAM Checkliste (1-Layer)
 
@@ -104,6 +114,8 @@ Cut out:
 
 [nach oben](#prometheus)
 
+-------------------------------------------------------------
+
 
 
 Die ProCAM Startseite
@@ -138,6 +150,7 @@ Die Fräser-Aufnahme
 [nach oben](#prometheus)
 
 
+-------------------------------------------------------------
 
 
 #### Link zu Zippyrobotics
@@ -149,6 +162,8 @@ Die Fräser-Aufnahme
 #### How To and Guides Videos
 [walk trough](https://www.zippyrobotics.com/how-to/)
 
+
+-------------------------------------------------------------
 
 
 ## Oberlab Wiki (Danke an Sepp)
@@ -238,5 +253,7 @@ Damit ProCam die Datei sauber einliest, muss man im .drl file ggf. das Leerzeich
 
 
 [nach oben](#prometheus)
+
+-------------------------------------------------------------
 
 
