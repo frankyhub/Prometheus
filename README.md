@@ -132,6 +132,28 @@ Das Fräser und Bohrer Starter Pack
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom20.jpg)
 
+Verfügbare Bits im Lab
+
+- 0.0315" Router
+
+- 5-mil 15° Carving Bit
+
+- 0.0197" Square End Mill
+
+- 0.0945" Square End Mill
+
+- 0.85mm Drill Bit
+
+- 1.2mm Drill Bit
+
+- 2.3mm Drill Bit
+
+- 0.125" Drill Bit
+
+
+
+
+
 Für den Test wurden "Blau, Lila und Rot" verwendet
 
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/prom21.jpg)
