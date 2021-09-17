@@ -1,4 +1,8 @@
 # Prometheus
+Version: 1.1.0<br>
+Release date: 2021 Sep 17<br>
+[![Build Status](https://github.com/frankyhub/Prometheus/blob/main/Pix/khf-version.svg)
+
 
 -------------------------------------------------------------
 
