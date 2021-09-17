@@ -1,6 +1,7 @@
 # Prometheus  
 
-[![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/khf-version.svg)](https://github.com/frankyhub/Prometheus)  17.09.2021  <br>
+[![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/khf-version.svg)](https://github.com/frankyhub/Prometheus)   
+[![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/datum.svg)](https://github.com/frankyhub/Prometheus)  <br>
 
 
 -------------------------------------------------------------
