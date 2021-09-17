@@ -10,4 +10,4 @@
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/ProCAM21.png)
 
 
-[Beispiel 2:](https://github.com/frankyhub/Prometheus/blob/main/KiCad/Prometheus.zip)
+[Download: Beispiel 2 Prometheus.zip](https://github.com/frankyhub/Prometheus/blob/main/KiCad/Prometheus.zip)
