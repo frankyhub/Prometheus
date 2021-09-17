@@ -1,6 +1,6 @@
 # Prometheus
 
-[Contribution guidelines for this project](docs/KiCad Checkliste.md)
+[Contribution guidelines for this project](KiCad Checkliste/Prometheus.md)
 
 ### Einleitung
 Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuert wird die PCB-Fräse mit ProCAM von Zippy Robotics. Die Windows-Software steht auf der Herstellerseite zippyrobotics.com zum Download zur Verfügung. Das PCB-Design wird z. B. mit KiCad erstellt und die Layer in ProCAM importiert. In ProCAM werden auch alle Parameter wie Fräser- und Bohrerdurchmesser oder die Anzahl der Fräs-Durchgänge festgelegt.
