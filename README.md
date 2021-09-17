@@ -71,9 +71,8 @@ Die Drilldatei Einstellungen
 ![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/drill1.png)
 
 
-[![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/nachoben.svg)](https://github.com/frankyhub/Prometheus)  [![image](#Prometheus)  <br>
+[![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/nachoben.svg)](https://github.com/frankyhub/#Prometheus) 
 
-[nach oben](#prometheus)
 
 
 -------------------------------------------------------------
@@ -118,7 +117,7 @@ Cut out:
 
 
 
-[nach oben](#prometheus)
+[![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/nachoben.svg)](https://github.com/frankyhub/#Prometheus) 
 
 -------------------------------------------------------------
 
@@ -175,7 +174,7 @@ Die Fräser-Aufnahme
 
 
 
-[nach oben](#prometheus)
+[![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/nachoben.svg)](https://github.com/frankyhub/#Prometheus) 
 
 
 -------------------------------------------------------------
@@ -281,7 +280,7 @@ Damit ProCam die Datei sauber einliest, muss man im .drl file ggf. das Leerzeich
 
 
 
-[nach oben](#prometheus)
+[![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/nachoben.svg)](https://github.com/frankyhub/#Prometheus) 
 
 -------------------------------------------------------------
 
