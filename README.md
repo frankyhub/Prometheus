@@ -7,11 +7,7 @@
 
 ### Inhaltsverzeichnis:
 
-- [Einleitung](#einleitung)
-
-- [ProCAM installieren](#procam-installieren)
-
-- [KiCad Checkliste](#kicad-checkliste)
+- [Einleitung](#einleitung) - [ProCAM installieren](#procam-installieren) - [KiCad Checkliste](#kicad-checkliste)
 
 - [ProCAM Checkliste (1-Layer)](#ProCAM-Checkliste-1-Layer)
 
