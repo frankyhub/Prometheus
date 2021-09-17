@@ -134,15 +134,15 @@ Das Fräser und Bohrer Starter Pack
 
 Verfügbare Bits im Lab
 
-- 0.0315" Router
+- 0.0315" Router (rot)
 
-- 5-mil 15° Carving Bit
+- 5-mil 15° Carving Bit (blau)
 
 - 0.0197" Square End Mill
 
 - 0.0945" Square End Mill
 
-- 0.85mm Drill Bit
+- 0.85mm Drill Bit (lila)
 
 - 1.2mm Drill Bit
 
