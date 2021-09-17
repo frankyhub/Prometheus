@@ -1,8 +1,7 @@
 # Prometheus
 
 
-![Build Status](https://github.com/frankyhub/Prometheus/blob/main/Pix/khf-version.svg)<br>
-### 17.092021<br>
+![Build Status](https://github.com/frankyhub/Prometheus/blob/main/Pix/khf-version.svg) <h3>17.092021  </h3><br>
 
 
 -------------------------------------------------------------
