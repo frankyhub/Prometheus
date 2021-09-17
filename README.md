@@ -15,6 +15,7 @@ Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuer
 
 ### KiCad Checkliste
 - [ ] Die max Platinengröße: 160 x 100
+- [ ] - [ ] https://github.com/octo-org/octo-repo/issues/740 123
 - [ ] Große Pads verwenden (Empfehlung 3mm)
 - [ ] Großen Leiterbahnquerschnitt verwenden (Empfehlung 0.5mm)
 - [ ] Gleich große Bohrlöcher definieren (Empfehlung 0,85mm)
