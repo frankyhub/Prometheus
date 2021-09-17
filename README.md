@@ -2,19 +2,19 @@
 
 ### Inhaltsverzeichnis:
 
-[Einleitung](#einleitung)
+- [Einleitung](#einleitung)
 
-[ProCAM installieren](#procam-installieren)
+- [ProCAM installieren](#procam-installieren)
 
-[KiCad Checkliste](#kicad-checkliste)
+- [KiCad Checkliste](#kicad-checkliste)
 
-[ProCAM Checkliste (1-Layer)](#ProCAM-Checkliste-1-Layer)
+- [ProCAM Checkliste (1-Layer)](#ProCAM-Checkliste-1-Layer)
 
-[Link zu Zippyrobotics](#Link-zu-Zippyrobotics)
+- [Link zu Zippyrobotics](#Link-zu-Zippyrobotics)
 
-[How To and Guides Videos](#How-To-and-Guides-Videos)
+- [How To and Guides Videos](#How-To-and-Guides-Videos)
 
-[Oberlab Wiki](#Oberlab-Wiki-Danke-an-Sepp)
+- [Oberlab Wiki](#Oberlab-Wiki-Danke-an-Sepp)
 
 -------------------------------------------------------------
 
