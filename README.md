@@ -1,6 +1,6 @@
 # Prometheus  
 
-[![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/khf-version.svg)](https://github.com/frankyhub/Prometheus)  [![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/datum.svg)](https://github.com/frankyhub/Prometheus)  <br>
+[![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/khf-version.svg)](#Prometheus)   [![image](https://github.com/frankyhub/Prometheus/blob/main/Pix/datum.svg)](#Prometheus)   <br>
 
 
 -------------------------------------------------------------
