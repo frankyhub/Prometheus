@@ -6,7 +6,7 @@
 
 [ProCAM installieren](#procam-installieren)
 
-[KiCad Checkliste](#KiCad Checkliste)
+[KiCad Checkliste](#kikad checkliste)
 
 [ProCAM Checkliste (1-Layer)](#ProCAM Checkliste (1-Layer))
 
