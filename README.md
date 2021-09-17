@@ -15,7 +15,6 @@ Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuer
 
 ### KiCad Checkliste
 - [ ] Die max Platinengröße: 160 x 100
-- [ ]  https://github.com/octo-org/octo-repo/issues/740 123
 - [ ] Große Pads verwenden (Empfehlung 3mm)
 - [ ] Großen Leiterbahnquerschnitt verwenden (Empfehlung 0.5mm)
 - [ ] Gleich große Bohrlöcher definieren (Empfehlung 0,85mm)
@@ -25,10 +24,6 @@ Prometheus ist eine 2-Layer PCB-Fräse (PCB = Printed Circuit Board). Angesteuer
 - [ ] Die Plotter und Bohrdatei erzeugen
 - [ ] Das Leerzeichen aus der DRL-Datei löschen
 
-
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
 
 Den positiven Arbeitsbereich für die X-Y-Achse festlegen (Offset für Bohrungen und Platzierungen)
 
