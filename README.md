@@ -14,7 +14,7 @@
 
 [How To and Guides Videos](#How-To-and-Guides-Videos)
 
-[Oberlab Wiki)](#Oberlab-Wiki-(Danke-an-Sepp)
+[Oberlab Wiki)](#Oberlab-Wiki-Danke-an-Sepp)
 
 
 
