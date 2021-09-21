@@ -17,7 +17,7 @@
 
 - **[Link zu Zippyrobotics](#Link-zu-Zippyrobotics)**
 
-- **[How To Videos and Guides](#How-To-and-Guides-Videos)**
+- **[How To Videos and Guides](#How-To-Videos-and-Guides)**
 
 - **[Oberlab Wiki](#Oberlab-Wiki-Danke-an-Sepp)**
 
