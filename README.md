@@ -186,7 +186,7 @@ Die Fräser-Aufnahme
 #### ProCam download
 [Download](https://www.zippyrobotics.com/download/)
 
-#### How To and Guides Videos
+#### How To Videos and Guides
 [walk trough](https://www.zippyrobotics.com/how-to/)
 <br> <br>
 
